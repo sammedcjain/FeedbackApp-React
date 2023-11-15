@@ -1,0 +1,14 @@
+{
+  "feedback": [
+    {
+      "text": "feedback updated here using json server fetch",
+      "rating": 8,
+      "id": 1
+    },
+    {
+      "text": "amazing react json server",
+      "rating": 7,
+      "id": 2
+    }
+  ]
+}
